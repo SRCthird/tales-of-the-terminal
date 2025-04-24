@@ -1,0 +1,5 @@
+me\frigidambiance\WebSocketServerInitializer.class
+me\frigidambiance\WebSocketServer.class
+me\frigidambiance\EchoFrameProcessor.class
+me\frigidambiance\WebSocketFrameHandler.class
+me\frigidambiance\WebSocketFrameProcessor.class
