@@ -1,8 +1,8 @@
-package me.frigidambiance;
+package me.frigidambiance.WebSocket;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.http.websocketx.WebSocketFrame;
 
-interface WebSocketFrameProcessor {
+public interface WebSocketFrameProcessor {
   void process(ChannelHandlerContext ctx, WebSocketFrame frame);
 }

@@ -1,11 +1,11 @@
-package me.frigidambiance;
+package me.frigidambiance.WebSocket;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.http.websocketx.CloseWebSocketFrame;
 import io.netty.handler.codec.http.websocketx.TextWebSocketFrame;
 import io.netty.handler.codec.http.websocketx.WebSocketFrame;
 
-class EchoFrameProcessor implements WebSocketFrameProcessor {
+public class EchoFrameProcessor implements WebSocketFrameProcessor {
 
   @Override
   public void process(ChannelHandlerContext ctx, WebSocketFrame frame) {

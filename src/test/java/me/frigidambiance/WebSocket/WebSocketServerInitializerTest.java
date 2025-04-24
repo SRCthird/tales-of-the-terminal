@@ -1,4 +1,4 @@
-package me.frigidambiance;
+package me.frigidambiance.WebSocket;
 
 import io.netty.channel.ChannelPipeline;
 import io.netty.channel.socket.SocketChannel;

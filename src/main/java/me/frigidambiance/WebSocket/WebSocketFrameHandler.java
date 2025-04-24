@@ -1,4 +1,4 @@
-package me.frigidambiance;
+package me.frigidambiance.WebSocket;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;

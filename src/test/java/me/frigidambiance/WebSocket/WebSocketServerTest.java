@@ -1,4 +1,4 @@
-package me.frigidambiance;
+package me.frigidambiance.WebSocket;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;

@@ -1,5 +1,5 @@
-me\frigidambiance\EchoFrameProcessorTest.class
-me\frigidambiance\WebSocketFrameHandlerTest.class
-me\frigidambiance\WebSocketServerInitializerTest.class
-me\frigidambiance\WebSocketServerTest$1.class
-me\frigidambiance\WebSocketServerTest.class
+me\frigidambiance\WebSocket\WebSocketServerTest$1.class
+me\frigidambiance\WebSocket\EchoFrameProcessorTest.class
+me\frigidambiance\WebSocket\WebSocketServerInitializerTest.class
+me\frigidambiance\WebSocket\WebSocketServerTest.class
+me\frigidambiance\WebSocket\WebSocketFrameHandlerTest.class

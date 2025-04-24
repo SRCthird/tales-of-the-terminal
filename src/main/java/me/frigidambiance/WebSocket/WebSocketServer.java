@@ -1,4 +1,4 @@
-package me.frigidambiance;
+package me.frigidambiance.WebSocket;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.*;
@@ -34,8 +34,4 @@ public class WebSocketServer {
     }
   }
 
-  public static void main(String[] args) throws InterruptedException {
-    WebSocketFrameProcessor processor = new EchoFrameProcessor();
-    new WebSocketServer(8080, processor).run();
-  }
 }

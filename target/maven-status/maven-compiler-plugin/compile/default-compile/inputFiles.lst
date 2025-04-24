@@ -1,5 +1,6 @@
-C:\Users\srcth\OneDrive\Documents\Projects\tales-of-the-terminal\src\main\java\me\frigidambiance\EchoFrameProcessor.java
-C:\Users\srcth\OneDrive\Documents\Projects\tales-of-the-terminal\src\main\java\me\frigidambiance\WebSocketFrameHandler.java
-C:\Users\srcth\OneDrive\Documents\Projects\tales-of-the-terminal\src\main\java\me\frigidambiance\WebSocketFrameProcessor.java
-C:\Users\srcth\OneDrive\Documents\Projects\tales-of-the-terminal\src\main\java\me\frigidambiance\WebSocketServer.java
-C:\Users\srcth\OneDrive\Documents\Projects\tales-of-the-terminal\src\main\java\me\frigidambiance\WebSocketServerInitializer.java
+C:\Users\srcth\OneDrive\Documents\Projects\tales-of-the-terminal\src\main\java\me\frigidambiance\App.java
+C:\Users\srcth\OneDrive\Documents\Projects\tales-of-the-terminal\src\main\java\me\frigidambiance\WebSocket\EchoFrameProcessor.java
+C:\Users\srcth\OneDrive\Documents\Projects\tales-of-the-terminal\src\main\java\me\frigidambiance\WebSocket\WebSocketFrameHandler.java
+C:\Users\srcth\OneDrive\Documents\Projects\tales-of-the-terminal\src\main\java\me\frigidambiance\WebSocket\WebSocketFrameProcessor.java
+C:\Users\srcth\OneDrive\Documents\Projects\tales-of-the-terminal\src\main\java\me\frigidambiance\WebSocket\WebSocketServer.java
+C:\Users\srcth\OneDrive\Documents\Projects\tales-of-the-terminal\src\main\java\me\frigidambiance\WebSocket\WebSocketServerInitializer.java
